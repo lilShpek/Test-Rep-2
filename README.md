@@ -3,3 +3,4 @@
 Привет, мир!
 Hello world!
 :)
+line conflict
